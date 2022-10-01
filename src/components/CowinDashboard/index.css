@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  padding: 30px;
+}
+.nav-bar {
+  display: flex;
+  align-items: center;
+  color: #2cc6c6;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.heading {
+  color: #cbd5e1;
+}
+.division-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin: 10px;
+}
